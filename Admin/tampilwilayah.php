@@ -53,7 +53,7 @@
 						title: "Hasil Penghapusan",
 						message: hasilProses,
 						callback: function(result){
-							window.location.href = "default.php?kode=tampilwilayah";
+							window.location.href = "?kode=tampilwilayah";
 						}
 					});
 				})
