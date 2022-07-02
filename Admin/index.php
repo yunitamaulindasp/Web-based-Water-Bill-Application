@@ -3,7 +3,7 @@
 	session_start();
 	
 	if (!isset($_SESSION['status']))
-	{	echo "<script>window.location.replace('../login.html')</script>";
+	{	echo "<script>window.location.replace('../login.php')</script>";
 		die();
 	}
 ?>
