@@ -271,9 +271,6 @@
 								else if ($kode == 'akses')
 								{	include('aksespegawai.php');
 								}
-								else if ($kode == 'hapus')
-								{	include('hapusakses.php');
-								}
 								else if ($kode == 'excel')
 								{	include('xl.php');
 								}
