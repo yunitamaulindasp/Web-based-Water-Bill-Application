@@ -85,7 +85,7 @@
 							title: 'Login berhasil',
 							message: 'Selamat datang ' + hasilProses,
 							callback: function(result){
-								window.location.href = "kasirlain/?kode=dasboard";
+								window.location.href = "kasir/?kode=dasboard";
 							}	
 						});
 						}
