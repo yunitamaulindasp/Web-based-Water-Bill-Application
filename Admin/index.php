@@ -15,7 +15,7 @@
 		<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 		<link rel="shortcut icon" type="image/x-icon" href="dist/logo/logo2.png">
 
-		<link rel="stylesheet" type="text/css" href="./dist/css/adminx.css" media="screen" />
+		<link rel="stylesheet" type="text/css" href="dist/css/adminx.css" media="screen" />
 		<link rel="stylesheet" href="../Web/datatables/dataTables.bootstrap4.min.css" />
     		
 		<script src="https://code.jquery.com/jquery-3.2.1.min.js"></script>
