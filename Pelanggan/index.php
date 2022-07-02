@@ -66,7 +66,7 @@
 				if (isset($_GET['kode']))
 				{	$kode = $_GET['kode'];
 					if ($kode == 'dasboard')
-					{	include('default.php');
+					{	include('home.php');
 					}
 					else if ($kode == 'rincian')
 					{	include('riwayat.php');
