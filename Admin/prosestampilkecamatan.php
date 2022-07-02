@@ -1,6 +1,6 @@
 <?php
 	require '../koneksi.php';
-	$requestData = $_REQUEST
+	$requestData = $_REQUEST;
 	
 	$sql = "SELECT count(*) FROM kecamatan";
 	$hasil = $mysqli->query($sql) or die ("Error: ". $mysqli->error);
